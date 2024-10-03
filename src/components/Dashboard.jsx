@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { GlobalContext } from '../App.jsx';
+import { GlobalContext } from "../App.jsx";
 import ContactList from "./ContactList";
 
 export default function Dashboard() {
